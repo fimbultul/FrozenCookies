@@ -1,1 +1,1 @@
-Game.LoadMod("http://icehawk78.github.io/FrozenCookies/frozen_cookies.js");
+Game.LoadMod("https://fimbultul.github.io/FrozenCookies/frozen_cookies.js");
